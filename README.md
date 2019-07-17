@@ -20,5 +20,4 @@ predicted probabilities.
 Our model has several advantages over classifier-based systems.
 It looks at the whole image at test time so its predictions are informed by global context in the image.
 It also makes predictions with a single network evaluation unlike systems like R-CNN which require thousands for a
-single image. This makes it extremely fast, more than 1000x faster than R-CNN and 100x faster than Fast R-CNN. See
-our paper for more details on the full system.
+single image. This makes it extremely fast, more than 1000x faster than R-CNN and 100x faster than Fast R-CNN.
